@@ -1,4 +1,4 @@
-impot  boto3
+import  boto3
 
 def mainlocal(debug=True):
     fileLoc=__file__ # get path for the executed script
